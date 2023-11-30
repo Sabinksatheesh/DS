@@ -147,7 +147,7 @@ void traversal(struct BTreeNode *myNode) {
 int main() {
   int val, ch;
 
-  printf("Enter the values to insert (enter -1 to stop):\n");
+  printf("Enter the values to insert  (enter -1 to stop):\n");
   while (1) {
     scanf("%d", &val);
     if (val == -1)

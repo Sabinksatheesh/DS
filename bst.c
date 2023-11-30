@@ -66,6 +66,7 @@ void display(struct Node* root) {
     printf("Binary Search Tree: ");
     inorderTraversal(root);
     printf("\n");
+    
 }
 
 void search(struct Node* root, int data) {

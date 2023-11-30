@@ -115,7 +115,7 @@ int main ()
     int choice,item;  
     do   
     {  
-        printf("\n1.Insert\n2.Delete\n3.Search\n4.Display\n5.Exit\n");  
+        printf("\n1.Insert \n2.Delete \n3.Search\n4.Display\n5.Exit\n");  
         printf("\nEnter your choice : ");  
         scanf("%d",&choice);  
         switch(choice)  

@@ -22,7 +22,7 @@ void insertAtFront()
 {
 int data;
 struct node*temp;
-temp=(struct node*)malloc(sizeof(struct node));
+temp=(struct node*)malloc(sizeof (struct node));
 printf("\nEnter number to be inerted:");
 scanf("%d",&data);
 temp->info=data;

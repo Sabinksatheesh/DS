@@ -92,6 +92,7 @@ void kruskalAlgo(int n, int edge[n][3])
 
 // Driver code 
 int main() 
+
 { 
 	int edge[5][3] = { { 0, 1, 10 }, 
 					{ 0, 2, 6 }, 
